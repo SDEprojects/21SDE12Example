@@ -9,3 +9,5 @@ Adding some code here so that players will read
 When quitting
 Updating QUIT() class
 Trying it again23
+
+Updated code so that players names only accept alpha.
